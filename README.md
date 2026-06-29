@@ -1,6 +1,6 @@
 # Hi, I'm Priya Poojary 👋
 
-## Senior Full Stack Engineer | AI & QA Automation Leader
+## Full Stack Engineer | AI & QA Automation Leader
 
 React • Node.js • Express.js • MongoDB • JavaScript • Python • Selenium • Robot Framework • Playwright • Appium
 
