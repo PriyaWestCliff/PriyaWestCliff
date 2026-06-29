@@ -4,10 +4,11 @@
 
 React • Node.js • Express.js • MongoDB • JavaScript • Python • Selenium • Robot Framework • Playwright • Appium
 
-[🌐 Portfolio](https://priya-poojary-portfolio.vercel.app)
-[💼 LinkedIn](www.linkedin.com/in/priya-poojary-34a416408)
-[📧 Email](mailto:priya0309poojary@gmail.com)
+🌐 **Portfolio:** https://priya-poojary-portfolio.vercel.app
 
+💼 **LinkedIn:** https://www.linkedin.com/in/priya-poojary-34a416408/
+
+📧 **Email:** <a href="mailto:priya0309poojary@gmail.com">priya0309poojary@gmail.com</a>
 ---
 
 ## About Me
@@ -326,10 +327,10 @@ Mangalore University
 
 # Let's Connect
 
-📧 priya0309poojary@gmail.com
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://priya-poojary-portfolio.vercel.app)
 
-🌐 Portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-poojary-34a416408/)
 
-💼 LinkedIn
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priya0309poojary@gmail.com)
 
 Always open to Senior Software Engineer, Technical Lead, Engineering Manager, AI Automation, and Enterprise Architecture opportunities.
