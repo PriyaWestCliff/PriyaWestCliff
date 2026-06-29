@@ -4,7 +4,7 @@
 
 React • Node.js • Express.js • MongoDB • JavaScript • Python • Selenium • Robot Framework • Playwright • Appium
 
-🌐 **Portfolio:** [https://priya-poojary-portfolio.vercel.app](https://priya-poojary-portfolio.vercel.app)
+🌐 **Portfolio:** https://priya-poojary-porfolio.vercel.app/
 
 💼 **LinkedIn:** https://www.linkedin.com/in/priya-poojary-34a416408/
 
@@ -327,7 +327,7 @@ Mangalore University
 
 # Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://priya-poojary-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://priya-poojary-porfolio.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya-poojary-34a416408/)
 
