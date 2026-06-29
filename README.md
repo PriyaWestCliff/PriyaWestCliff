@@ -4,7 +4,7 @@
 
 React • Node.js • Express.js • MongoDB • JavaScript • Python • Selenium • Robot Framework • Playwright • Appium
 
-🌐 **Portfolio:** https://priya-poojary-portfolio.vercel.app
+🌐 **Portfolio:** [https://priya-poojary-portfolio.vercel.app](https://priya-poojary-portfolio.vercel.app)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/priya-poojary-34a416408/
 
